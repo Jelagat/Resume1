@@ -11,13 +11,16 @@ https://jelagat.github.io
 IRINE JELAGAT ROTICH
 
 BRIEF PROFILE 
+
 An analytical thinker with the ability to scalp brilliant strategies from a massive
 project, a software developer with vast experience in the following technologies
 (Microsoft Dynamics Navision 2013-Dynamics 365-Business Central, Java Spring MVC
 framework, Angular Js, PHP laravel MVC).
 
 PROFFESSIONAL EXPERIENCE
+
  ICT Supervisor, Kenya National Bureau of Statistics
+ 
 August 2019 -to- September 2nd 2019
 Training Content Supervisors and ensuring that they train Enumerators adequately.
 Providing technical support on ICT issues to Content Supervisors and Enumerators in
